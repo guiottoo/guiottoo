@@ -13,5 +13,3 @@
 <div align = "center">
   <a href = "https://wa.me/5551999479392" target = "_blanc">Contato</a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008DFF&height=120&section=footer"/>
