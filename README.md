@@ -11,5 +11,5 @@
 <br><br>
 
 <div align = "center">
-  <a href = "https://wa.me/5551999479392" target = "_blanc"> <strong>CONTATO</strong> </a>
+  <a href = "https://wa.me/5551999479392" target = "_blanc"> <strong>CONTACT</strong> </a>
 </div>
