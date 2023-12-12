@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008DFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=660099&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008DFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Guilherme+Otto;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)
 
