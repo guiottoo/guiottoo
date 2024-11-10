@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.vexels.com%2Fpng-svg%2Fprevisualizar%2F261919%2Fpalavra-em-negrito-do-programador&psig=AOvVaw15Ni6PYNfkm5B-NLPGWbIy&ust=1731302784453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD1p9yD0YkDFQAAAAAdAAAAABAE" />
 &nbsp;&nbsp;&nbsp;
 
 
