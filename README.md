@@ -7,7 +7,7 @@
 Comprometido em entregar resultados de alta qualidade, busco sempre inovações que agreguem valor aos projetos, contribuindo para o sucesso das iniciativas.</p>
 
 ### Contato:
-<a href = "mailto:contato.guilhermeotto22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "mailto:guilhermeotto22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 ## Minhas habilidades:
 
