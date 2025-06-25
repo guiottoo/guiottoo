@@ -3,12 +3,12 @@
 <p>Facilitando vidas através da tecnologia.</p>
 
 ##### SKILLS
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=71DAFB" />
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=swagger&logoColor=85EA2D" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 
 
 ##### CONTACT
