@@ -1,9 +1,8 @@
-<h2>Guilherme Otto</h2>
+<h2>Hi! I'm Gui Otto</h2>
 
-<p>Facilitando vidas através da tecnologia.</p>
+<i>making lives easier through technology.</i>
 
 ##### SKILLS
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=yellow" />
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=swagger&logoColor=85EA2D" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 
 
 ##### CONTACT
